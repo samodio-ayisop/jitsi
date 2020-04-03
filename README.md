@@ -1,0 +1,2 @@
+# jitsi
+servidor Jitsi Ayi
